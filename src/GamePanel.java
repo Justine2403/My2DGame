@@ -10,7 +10,7 @@ public class GamePanel extends JPanel{
     //how many tiles can be displayed on a single screen horizontally and vertically
     //ratio 4/3
     final int maxScreenCol = 18;
-    final int maxScreenRow = 14;
+    final int maxScreenRow = 14; //14
 
     //size of the game screen
     final int screenWidth = tileSize * maxScreenCol; //768 pixels
